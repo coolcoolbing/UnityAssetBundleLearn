@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2998937382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 083c2565af19eda39e5b16c2c36b68bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f49f05f36a566d50434f7d9f3fb347da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/CubeStone.prefab
+Dependencies:
+- "F:/Chenhuada Unity Project/Assetbundle\u5B66\u4E60/AssetBundles/share_material"

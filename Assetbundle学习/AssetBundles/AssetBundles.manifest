@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2827038658
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: share_material
+      Dependencies: {}
+    Info_1:
+      Name: reply/cubestone
+      Dependencies:
+        Dependency_0: share_material
+    Info_2:
+      Name: reply/spherestone
+      Dependencies:
+        Dependency_0: share_material

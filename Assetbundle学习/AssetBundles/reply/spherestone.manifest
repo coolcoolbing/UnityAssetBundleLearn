@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3833903157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7dfcdf31dc8b4ac36bf93d53808fe68f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac00e3ac4a3082e54e4c0802c59d28ec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/SphereStone.prefab
+Dependencies:
+- "F:/Chenhuada Unity Project/Assetbundle\u5B66\u4E60/AssetBundles/share_material"
